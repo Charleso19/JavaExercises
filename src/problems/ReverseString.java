@@ -1,3 +1,5 @@
+package problems;
+
 /**
  * A solution for the Reverse String problem on leetcode.com. This problem and solution is an example of an in-place
  * algorithm with O(1) space complexity. 

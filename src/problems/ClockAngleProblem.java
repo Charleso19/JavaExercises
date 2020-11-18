@@ -1,3 +1,5 @@
+package problems;
+
 /**
  * An exercise per the MSc Computer Science course. Exercise was created via Manfred Kerber and Alexandros Evangelidis,
  * 1st October 2019, from the School of Computer Science, University of Birmingham.

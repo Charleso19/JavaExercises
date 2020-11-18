@@ -1,3 +1,5 @@
+package problems;
+
 /**
  * A problem found via a small coding assignment. The class capitalises each word of a phrase.
  * 

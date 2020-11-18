@@ -1,3 +1,5 @@
+package problems;
+
 /**
  * The class outputs the The Twelve Days of Christmas song
  * (https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)) via the use of the "Falling Through" feature
