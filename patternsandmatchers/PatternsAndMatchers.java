@@ -15,7 +15,7 @@ public class PatternsAndMatchers {
 	 * This method of matching patterns is simple but only efficient for a single use, as each time Pattern is
 	 * recompiled.
 	 * 
-	 * The method is largely redundant as it would be quicker for a user to simple code the implementation; however, it
+	 * The method is largely redundant as it would be quicker for a user to simply code the implementation; however, it
 	 * is shown here for demonstration purposes.
 	 * 
 	 * @param  regex is the String that is the regex to be used.
